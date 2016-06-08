@@ -1,4 +1,6 @@
 # hello-world
 my first github repository
 
-This is where I wouod describe some background about this vital propject....
+This is where I would describe some background about this vital project....
+
+And here is a neww line.
